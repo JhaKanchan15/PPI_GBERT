@@ -20,4 +20,5 @@ In order to replicate the results mentioned in paper, please follow the followin
 
 
 For more details about the Graph-BERT and the environment required to run the model, you can refer to this link:
+
   Link: https://github.com/jwzhanggy/Graph-Bert
